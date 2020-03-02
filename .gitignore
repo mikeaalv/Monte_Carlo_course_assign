@@ -3,3 +3,9 @@
 *.Rhis*
 *.zip
 *.doc*
+*.tab
+*.pdf
+*.out
+*.err
+*.sh.e*
+*.sh.o*
