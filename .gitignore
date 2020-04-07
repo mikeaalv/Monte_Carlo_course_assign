@@ -9,3 +9,4 @@
 *.err
 *.sh.e*
 *.sh.o*
+*/result/*
